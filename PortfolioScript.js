@@ -1,4 +1,4 @@
-let tbutn = document.getElementById("top-button");
+let btn = document.getElementById("top-button");
 
     function toTop() {
       document.body.scrollTop = 0;
